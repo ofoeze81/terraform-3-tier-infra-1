@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
-extra-topics/
+extra-topics/*
+extra-topics
 
 # .tfstate files
 *.tfstate
